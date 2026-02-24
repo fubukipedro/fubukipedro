@@ -39,8 +39,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/21gc7gh2kz24tr7azzi5goeai?si=efeb89ae52bf4338">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/21gc7gh2kz24tr7azzi5goeai?si=efeb89ae52bf4338&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/21gc7gh2kz24tr7azzi5goeai?si=efeb89ae52bf4338">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21gc7gh2kz24tr7azzi5goeai?si=efeb89ae52bf4338&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
