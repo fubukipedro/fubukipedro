@@ -4,15 +4,6 @@
 
 <p align="left">Pedro Henrique — Software Engineering Student</p>
 
-<div align="left">
-  <img 
-    src="https://i.pinimg.com/1200x/62/bd/df/62bddf7742933ba9f7277a047f52ea63.jpg" 
-    width="1280" 
-    height="300" 
-    alt="gif de boas-vindas" 
-  />
-</div>
-
 ###
 
 <h2 align="left">About Me 🚀</h2>
