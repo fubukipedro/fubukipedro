@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Pedro Henrique — Software Engineering Student</p>
+<p align="left">Pedro Henrique - Software Engineering Student</p>
 
 ###
 
